@@ -1,0 +1,28 @@
+name: NINJA POWER
+favicon: null
+layout_spectrum: 0.8954762958455831
+typography_spectrum: 0.365931540960446
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.8023602881003171
+  lightness: 0.5235520130954683
+  saturation: 0.7246802460867912
+  rhythmicContrast: 0.9515347443521023
+purpose: []
